@@ -44,11 +44,6 @@ sections:
         title: Faster and cheaper
     section_id: features
     type: features
-  - component: posts.html
-    section_id: posts
-    subtitle: '****'
-    title: faster
-    type: posts
 menu:
   main:
     name: Home
