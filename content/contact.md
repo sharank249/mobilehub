@@ -1,9 +1,9 @@
 ---
 title: Vision
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: "Vision statement for my venture is inspiring the people to use more products as well as\r\n\ngadgets through innovative technological devices."
 content_img:
   enabled: true
-  path: images/pic10.jpg
+  path: /images/pic09.jpg
   url: '#'
 sidebar:
   enabled: false
