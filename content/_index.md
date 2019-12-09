@@ -35,15 +35,13 @@ sections:
           style: style2
         title: Processing Power
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          **we provide a good quality products  and faster service at reasonable
+          cost. which are help to make strong relationship.**
         icon:
           enabled: true
           icon: fa-cube
           style: style3
-        title: Lacus ultricies sagittis mi dui dapibus
+        title: Faster and cheaper
     section_id: features
     type: features
   - actions:
@@ -53,23 +51,13 @@ sections:
         url: /contact
     component: cta.html
     section_id: cta
-    text: >-
-      **Smartphones and tablets run on batteries, which means they have to use
-      power as efficiently as possible. It's not feasible to provide the high,
-      constant power to a device's CPU from such a small battery. Consequently,
-      the newest smartphone will not give you as much power as a high-end
-      desktop computer. Mobile devices are getting more powerful every month,
-      but traditional computers will always have the performance edge, due to
-      consistent access to more electricity.**
-    title: Processing Power
+    text: '****'
+    title: processing power
     type: cta
   - component: posts.html
     section_id: posts
-    subtitle: >-
-      **we provide a good quality products and faster service to our customers
-      at reasonable price.which one helpful to connect to their near ones and
-      maker a strong relationships.**
-    title: faster and cheaper
+    subtitle: '****'
+    title: faster
     type: posts
 menu:
   main:
