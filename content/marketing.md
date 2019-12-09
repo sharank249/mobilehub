@@ -1,6 +1,9 @@
 ---
 title: Marketing
 subtitle: >-
+  ![](/images/download.jpg)
+
+
   **Mobile marketing is any advertising activity that promotes products and
   services via mobile devices, such as tablets and smartphones. ... Mobile
   marketing is a way in which technology can be used to create personalized
@@ -8,7 +11,7 @@ subtitle: >-
   network.**
 content_img:
   enabled: false
-  path: /images/download.jpg
+  path: ''
   url: '#'
 sidebar:
   enabled: false
