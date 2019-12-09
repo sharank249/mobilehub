@@ -11,7 +11,7 @@ subtitle: >-
   network.**
 content_img:
   enabled: false
-  path: /images/download.jpg
+  path: /images/images-1-.jpg
   url: '#'
 sidebar:
   enabled: false
