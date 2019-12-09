@@ -20,10 +20,16 @@ menu:
     name: ''
 layout: page
 ---
-**To get a good success in the business it is very important to maintain good Market value in the**
+**To get a good success in the business it is very important to maintain good Market value in the industries. It is only possible if we manufacture the good quality products according to the customer demands with new technique devices. then we also gain a good feedback from the Clients which is helpful for company to gain a good name in the market.**
 
-**industries. It is only possible if we manufacture the good quality products according to the customer**
+**KEY TAKEAWAYS**
 
-**demands with new technique devices. then we also gain a good feedback from the**
+**Mobile marketing is an advertising activity that uses mobile devices, such as text promos and apps via push notifications.** 
 
-**Clients which is helpful for company to gain a good name in the market.**
+**Mobile marketing audiences are grouped by behaviors and not by demographics.** 
+
+**Mobile marketing is a subset of mobile advertising.** 
+
+**Marketing faces privacy issues related to data collection.** 
+
+****
