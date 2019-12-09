@@ -3,6 +3,7 @@ title: Strategies
 subtitle: "**I prefer to select assets and core competencies strategies approach from table my smart phone**\r\n\n **Venture .The value creation of any venture is totally based on assets such as financial, physical,**\r\n\n **Human and Intellectual are buildings of its capabilities which lead to increase core competencies**"
 content_img:
   enabled: false
+  path: /images/cta.jpg
   url: '#'
 sidebar:
   enabled: false
@@ -10,7 +11,7 @@ sidebar:
 menu:
   layouts:
     name: Strategies
-    weight: 5
+    weight: 4
 layout: page
 ---
 **There are diverse of policy that could be helpful for staff members as well as followers. Which I will**
