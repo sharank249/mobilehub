@@ -8,7 +8,7 @@ subtitle: >-
   **gadgets through innovative technological devices.**
 content_img:
   enabled: true
-  path: ''
+  path: /images/vision.jpg
   url: '#'
 sidebar:
   enabled: false
