@@ -14,19 +14,14 @@ menu:
     weight: 3
 layout: page
 ---
-
-### Dolore Amet Consequat
-
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
-
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique.
-
-### Sed Magna Ornare
-
-In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus nisi rutrum metus.
-
-* Faucibus orci lobortis ac adipiscing integer.
-* Col accumsan arcu mi aliquet placerat.
-* Lobortis vestibulum ut magna tempor massa nascetur.
-* Blandit massa non blandit tempor interdum.
-* Lacinia mattis arcu nascetur lobortis.
+* ## _\`Vision statement for my venture is inspiring the people to use more products as well as gadgets through innovative technological devices.
+  \`_
+* ## _`The main motive of vision statement of company to provide new innovative devices  to people and understand the demands of customers and make a strong plan in
+   future with uniqueness, clarity, consistency ,purposeful._
+* ## _`Clarity means understand and focused on customer’s demands._
+  ## _`_
+* ## _`Consistency means does not change the vision according to new results._
+  ## _`_
+* ## _\`Uniqueness means provide unique products as their customers’ needs in  future.
+  \`_
+* ## _\`Purposeful means that make a strong plan to describe a best part of organization as compare to other ventures in the world in future.\`_
