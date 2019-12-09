@@ -8,6 +8,7 @@ subtitle: >-
   network.**
 content_img:
   enabled: false
+  path: /images/download.jpg
   url: '#'
 sidebar:
   enabled: false
