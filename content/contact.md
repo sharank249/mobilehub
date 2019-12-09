@@ -1,6 +1,11 @@
 ---
 title: Vision
-subtitle: "Vision statement for my venture is inspiring the people to use more products as well as\r\n\ngadgets through innovative technological devices."
+subtitle: >-
+  **Vision statement for my venture is inspiring the people to use more products
+  as well as**
+
+
+  **gadgets through innovative technological devices.**
 content_img:
   enabled: true
   path: /images/pic09.jpg
