@@ -11,26 +11,22 @@ sections:
   - component: features.html
     features:
       - description: >-
-          **Smartphones are just as vulnerable to cyber attacks as the
-          traditional desktop, and in some cases even more so. With the wide
-          range of sensitive data we keep on our devices this is hardly
-          surprising.**
-
-
-          ****
+          Smartphones are just as vulnerable to cyber attacks as the traditional
+          desktop, and in some cases even more so. With the wide range of
+          sensitive data we keep on our devices this is hardly surprising.
         icon:
           enabled: true
           icon: fa-area-chart
           style: style1
         title: Security
       - description: >-
-          **Smartphones and tablets run on batteries, which means they have to
-          use power as efficiently as possible. It's not feasible to provide the
+          Smartphones and tablets run on batteries, which means they have to use
+          power as efficiently as possible. It's not feasible to provide the
           high, constant power to a device's CPU from such a small battery.
           Consequently, the newest smartphone will not give you as much power as
           a high-end desktop computer. Mobile devices are getting more powerful
           every month, but traditional computers will always have the
-          performance edge, due to consistent access to more electricity.**
+          performance edge, due to consistent access to more electricity.
         icon:
           enabled: true
           icon: fa-pie-chart
