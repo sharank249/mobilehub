@@ -1,12 +1,7 @@
 ---
 title: Home
 banner:
-  actions:
-    - is_huge: true
-      is_primary: false
-      is_scrolly: false
-      label: Learn More
-      url: /no-sidebar
+  actions: []
   subtitle: >-
     we are going to provide a new innovative and technology based smart phones
     which are  helpful to complete the needs of customers. they easily connect
@@ -15,7 +10,14 @@ banner:
 sections:
   - component: features.html
     features:
-      - description: "**Smartphones are just as vulnerable to cyber attacks as the traditional desktop, and in some cases even more so. With the wide range of sensitive data we keep on our devices this is hardly surprising.**\r\n\n**Cases of mobile malware are on the rise, with an increasing number of flaws being found in the Android platform in recent years.**"
+      - description: >-
+          **Smartphones are just as vulnerable to cyber attacks as the
+          traditional desktop, and in some cases even more so. With the wide
+          range of sensitive data we keep on our devices this is hardly
+          surprising.**
+
+
+          ****
         icon:
           enabled: true
           icon: fa-area-chart
