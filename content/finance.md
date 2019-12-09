@@ -17,9 +17,11 @@ sidebar:
   enabled: false
   side: left
 menu:
+  layouts:
+    weight: ''
   main:
     name: Finance
-    weight: -7
+    weight: 6
 layout: page
 ---
 
