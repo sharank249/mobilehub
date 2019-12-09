@@ -1,7 +1,7 @@
 ---
 title: Marketing
 subtitle: >-
-  ![](/images/download.jpg)
+  ![](/images/pic02.jpg)
 
 
   **Mobile marketing is any advertising activity that promotes products and
