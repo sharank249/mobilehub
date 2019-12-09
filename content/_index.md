@@ -22,15 +22,18 @@ sections:
           style: style1
         title: Security
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          **Smartphones and tablets run on batteries, which means they have to
+          use power as efficiently as possible. It's not feasible to provide the
+          high, constant power to a device's CPU from such a small battery.
+          Consequently, the newest smartphone will not give you as much power as
+          a high-end desktop computer. Mobile devices are getting more powerful
+          every month, but traditional computers will always have the
+          performance edge, due to consistent access to more electricity.**
         icon:
           enabled: true
           icon: fa-pie-chart
           style: style2
-        title: Phasellus libero eu sed augue gravida
+        title: Processing Power
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
