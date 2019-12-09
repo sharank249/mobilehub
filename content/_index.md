@@ -33,8 +33,8 @@ sections:
           style: style2
         title: Processing Power
       - description: >-
-          **we provide a good quality products  and faster service at reasonable
-          cost. which are help to make strong relationship.**
+          we provide a good quality products  and faster service at reasonable
+          cost. which are help to make strong relationship.
         icon:
           enabled: true
           icon: fa-cube
