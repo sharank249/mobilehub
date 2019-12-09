@@ -3,7 +3,7 @@ title: Risk
 subtitle: "**In modern era, Smart phones venture is most popular and it has different types of risks but the**\r\n\n**main risks for my business are: -**\r\n\n** Technology**\r\n\n** Market**\r\n\n** Financial**\r\n\n** Team**"
 content_img:
   enabled: false
-  path: /images/pic04.jpg
+  path: /images/download-1-.jpg
   url: '#'
 sidebar:
   enabled: false
