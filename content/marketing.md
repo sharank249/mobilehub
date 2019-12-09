@@ -19,7 +19,7 @@ sidebar:
 menu:
   main:
     name: Marketing
-    weight: -5
+    weight: 5
   submenu:
     name: ''
 layout: page
