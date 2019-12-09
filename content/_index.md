@@ -1,5 +1,5 @@
 ---
-title: home
+title: Home
 banner:
   actions:
     - is_huge: true
@@ -7,7 +7,10 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  subtitle: >-
+    we are going to provide a new innovative and technology based smart phones
+    which are  helpful to complete the needs of customers. they easily connect
+    with their near ones.
   title: Mobile hub
 sections:
   - component: features.html
