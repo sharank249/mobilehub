@@ -44,16 +44,6 @@ sections:
         title: Faster and cheaper
     section_id: features
     type: features
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: How it works
-        url: /contact
-    component: cta.html
-    section_id: cta
-    text: '****'
-    title: processing power
-    type: cta
   - component: posts.html
     section_id: posts
     subtitle: '****'
