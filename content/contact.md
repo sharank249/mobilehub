@@ -8,7 +8,7 @@ subtitle: >-
   **gadgets through innovative technological devices.**
 content_img:
   enabled: true
-  path: /images/pic09.jpg
+  path: /images/images-1-.jpg
   url: '#'
 sidebar:
   enabled: false
