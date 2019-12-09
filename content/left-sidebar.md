@@ -1,28 +1,21 @@
 ---
-title: Left Sidebar
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+title: Strategies
+subtitle: "**I prefer to select assets and core competencies strategies approach of my smart phone**\r\n\n **Venture .The value creation of any venture is totally based on assets such as financial, physical,**\r\n\n **Human and Intellectual are buildings of its capabilities which lead to increase core competencies**"
 content_img:
   enabled: true
-  path: images/pic07.jpg
+  path: /images/pic05.jpg
   url: '#'
 sidebar:
   enabled: true
   side: left
+menu:
+  layouts:
+    name: Strategies
+    weight: -5
 layout: page
 ---
+### There are diverse of policy that could be helpful for staff members as well as followers. Which I will discuss in the below segments:--
 
-### Dolore Amet Consequat
+### Market and customers demand:- It’s very important to make plans according to market and customers stratification. In this way, it will help to increase the company status as workers came to know about the competitions in the market.
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
-
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique.
-
-### Sed Magna Ornare
-
-In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus nisi rutrum metus.
-
-* Faucibus orci lobortis ac adipiscing integer.
-* Col accumsan arcu mi aliquet placerat.
-* Lobortis vestibulum ut magna tempor massa nascetur.
-* Blandit massa non blandit tempor interdum.
-* Lacinia mattis arcu nascetur lobortis.
+### Advertisements :- As in this modern era, there are huge of social medias such as networking’s , blogs and other social networking sites .It helps to communicate to workers and customers review regarding work and develop new skills and progress in their business .
