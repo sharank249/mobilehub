@@ -1,7 +1,7 @@
 ---
 title: Marketing
 subtitle: >-
-  ![](/images/pic02.jpg)
+  ![]()
 
 
   **Mobile marketing is any advertising activity that promotes products and
@@ -11,7 +11,7 @@ subtitle: >-
   network.**
 content_img:
   enabled: false
-  path: ''
+  path: /images/download.jpg
   url: '#'
 sidebar:
   enabled: false
