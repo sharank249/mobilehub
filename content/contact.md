@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Vision
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 content_img:
   enabled: true
