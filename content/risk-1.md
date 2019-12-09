@@ -12,6 +12,9 @@ menu:
   layouts:
     name: Risk
     weight: 5
+  main:
+    name: Risk
+    weight: 4
 layout: page
 ---
 **Technology Risk: -**
