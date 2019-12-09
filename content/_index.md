@@ -15,16 +15,12 @@ banner:
 sections:
   - component: features.html
     features:
-      - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+      - description: "**Smartphones are just as vulnerable to cyber attacks as the traditional desktop, and in some cases even more so. With the wide range of sensitive data we keep on our devices this is hardly surprising.**\r\n\n**Cases of mobile malware are on the rise, with an increasing number of flaws being found in the Android platform in recent years.**"
         icon:
           enabled: true
           icon: fa-area-chart
           style: style1
-        title: Integer vitae consequat sed magna feugiat
+        title: Security
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
@@ -55,18 +51,22 @@ sections:
     component: cta.html
     section_id: cta
     text: >-
-      Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
-      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
-      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
-      lorem feugiat. In fringilla diet consectetur.
-    title: Ultrices ante sagittis nunc senectus libero netus
+      **Smartphones and tablets run on batteries, which means they have to use
+      power as efficiently as possible. It's not feasible to provide the high,
+      constant power to a device's CPU from such a small battery. Consequently,
+      the newest smartphone will not give you as much power as a high-end
+      desktop computer. Mobile devices are getting more powerful every month,
+      but traditional computers will always have the performance edge, due to
+      consistent access to more electricity.**
+    title: Processing Power
     type: cta
   - component: posts.html
     section_id: posts
-    subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-    title: Convallis amet interdum
+    subtitle: >-
+      **we provide a good quality products and faster service to our customers
+      at reasonable price.which one helpful to connect to their near ones and
+      maker a strong relationships.**
+    title: faster and cheaper
     type: posts
 menu:
   main:
