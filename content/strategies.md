@@ -14,7 +14,7 @@ menu:
     weight: ''
   main:
     name: Strategies
-    weight: -3
+    weight: 3
 layout: page
 ---
 **There are diverse of policy that could be helpful for staff members as well as followers. Which I will**
