@@ -10,8 +10,11 @@ sidebar:
   side: left
 menu:
   layouts:
+    name: ''
+    weight: ''
+  main:
     name: Strategies
-    weight: 4
+    weight: -3
 layout: page
 ---
 **There are diverse of policy that could be helpful for staff members as well as followers. Which I will**
