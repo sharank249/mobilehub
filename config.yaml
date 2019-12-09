@@ -19,11 +19,7 @@ params:
         gradient1: '#16f4cf'
         gradient2: '#6532e5'
 menu:
-  footer:
-    - identifier: normal8
-      name: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      weight: 4
+  footer: []
   main: []
 disableKinds:
   - RSS
