@@ -17,6 +17,9 @@ menu:
   footer:
     name: Contact
     weight: 3
+  main:
+    name: Vision
+    weight: -5
 layout: page
 ---
 * ## Vision statement for my venture is inspiring the people to use more products as well as gadgets through innovative technological devices.
